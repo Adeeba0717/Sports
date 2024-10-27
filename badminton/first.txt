@@ -1,0 +1,4 @@
+rackets
+shuttlecock
+net
+shoes
